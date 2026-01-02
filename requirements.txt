@@ -1,0 +1,9 @@
+programming: python
+
+libraries: 
+
+pandas: Data handling and preprocessing
+sklearn.model_selection: Splitting dataset
+sklearn.linear_model: Logistic Regression model
+sklearn.tree: Decision Tree model
+sklearn.metrics: Model evaluation
